@@ -1,16 +1,11 @@
 ## Hello! I am Felipe 👋
 
 
-<div style="display: inline_block">
+<div style="display: inline_block"><br>
   <a href="https://github.com/felipebma">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipebma&count_private=true&hide=stars&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebma&count_private=true&hide=HLSL,VHDL,ShaderLab,Verilog&layout=compact&langs_count=8&theme=tokyonight&exclude_repo=InfraHard,ObstacleSwap,CompetitiveProgramming"/>
 </div>
-
-<div>  
-  
-</div>
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
