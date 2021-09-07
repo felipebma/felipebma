@@ -1,9 +1,9 @@
 ## Hello! I am Felipe 👋
 
 
-<div style="display: inline_block"><br>
+<div>
   <a href="https://github.com/felipebma">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipebma&count_private=true&hide=stars&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipebma&count_private=true&hide=stars&include_all_commits=true&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebma&count_private=true&hide=HLSL,VHDL,ShaderLab,Verilog&layout=compact&langs_count=8&theme=tokyonight&exclude_repo=InfraHard,ObstacleSwap,CompetitiveProgramming"/>
 </div>
 
