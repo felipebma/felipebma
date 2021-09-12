@@ -1,4 +1,4 @@
-## Hello! I am Felipe 👋
+## Hey there! I am Felipe Araújo 👋
 
 <div>
   <a href="https://github.com/felipebma">
