@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/felipebma">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=felipebma&count_private=true&hide=stars&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebma&count_private=true&hide=HLSL,VHDL,ShaderLab,Verilog&layout=compact&langs_count=8&theme=tokyonight&exclude_repo=InfraHard,ObstacleSwap,CompetitiveProgramming"/>
+  <img height="170em" src="https://github-readme-stats-ten-eta-33.vercel.app/api?username=felipebma&count_private=true&hide=stars&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats-ten-eta-33.vercel.app/api/top-langs/?username=felipebma&count_private=true&hide=HLSL,VHDL,ShaderLab,Verilog&layout=compact&langs_count=8&theme=tokyonight&exclude_repo=InfraHard,ObstacleSwap,CompetitiveProgramming"/>
 </div>
 
 <div style="display: inline_block"><br>
