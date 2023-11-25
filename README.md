@@ -19,19 +19,52 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
-##
 
-<!--
-**felipebma/felipebma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello there! I'm a passionate software developer with a love for crafting innovative and efficient solutions. With a background that spans across top-tier tech giants and a solid education, I'm always eager to learn and take on new challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 International Experience: I've had the privilege of interning as a software engineer with tech giants around the world, including Facebook in London, Google in Seattle, and Motorola in Brazil.
+- 🎓 Education: I earned my degree in Computer Science from the Federal University of Pernambuco, where I honed my theoretical and practical programming skills.
+- 💼 Professional Expertise: I have a solid experience in software development, specializing in both backend and frontend development. Some of my key skills include:
+
+### Backend Development:
+
+- Languages: Java, Python, C++
+- Frameworks: SpringBoot, Micronaut Framework, NestJS
+- Experience in building efficient and scalable APIs.
+
+### Frontend Development:
+
+- Languages: JavaScript, TypeScript
+- Frameworks: React, Next.js
+- Responsive design and intuitive user interface development.
+
+### Mobile Development
+
+- Flutter
+- Kotlin
+- Creating mobile applications for Android and iOS with a focus on usability and performance.
+
+### AWS Experience
+
+- Proficient in working with Amazon Web Services (AWS) for cloud infrastructure and services.
+
+### Database Expertise
+
+- Relational and Non-relational Databases
+- MySQL, MongoDB, Firebase, Postgres, among others.
+
+## Notable Projects
+
+Here are some of my most noteworthy projects:
+
+1. **[Dikastis](https://www.dikastis.com.br)**: An Online Judge created to assist educators and tutors in assessing students' programming knowledge. It is widely used today at the Center of Informatics of the Federal University of Pernambuco.
+
+2. **[Voleizinho](https://github.com/felipebma/voleizinho)**: A mobile application designed to manage groups of players and create balanced teams for volleyball games among friends.
+
+## Get in Touch
+
+Feel free to reach out to me via email at fbenaraujo@gmail.com. You can also find me on [LinkedIn](https://www.linkedin.com/in/felipeb-maraujo/).
+
+Explore my repositories below and discover more about my work. I'm always open to collaborations and exciting opportunities. Let's connect!
